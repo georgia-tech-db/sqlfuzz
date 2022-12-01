@@ -1,0 +1,6 @@
+{
+    "log_err": "calcite_err",
+    "input_queries": "input.sql",
+    "output": "out",
+    "rewrite_times": 10
+}

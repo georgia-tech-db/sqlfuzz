@@ -1,0 +1,55 @@
+{
+    "function_name": [
+        "sum",
+        "min",
+        "max",
+        "bit_and",
+        "bit_or",
+        "count",
+        "cube",
+        "upper",
+        "lower",
+        "cast",
+        "extract",
+        "stddev_pop",
+        "avg",
+        "sum",
+        "stddev_samp",
+        "var_pop",
+        "var_samp"
+    ],
+    "keyword": [
+        "distinct",
+        "group",
+        "case",
+        "having",
+        "where",
+        "order",
+        "not",
+        "in",
+        "and",
+        "or",
+        "exists",
+        "partition",
+        "offset",
+        "cast",
+        "intersect",
+        "union",
+        "except",
+        "limit"
+    ],
+    "type":["integer",
+        "double",
+        "varchar",
+        "date",
+        "time",
+        "datetime",
+        "float"
+
+    ],
+    "join": [
+        "left",
+        "full",
+        "inner"
+    ]
+}

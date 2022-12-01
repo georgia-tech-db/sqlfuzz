@@ -1,0 +1,21 @@
+{
+    "order": 100,
+    "limit": 100,
+    "group": 100,
+    "left": 333,
+    "inner": 333,
+    "full": 333,
+    "scalar": 100,
+    "true": 500,
+    "func_expr": 100,
+    "literal_column": 100,
+    "distinct": 50,
+    "set": 200,
+    "offset": 100,
+    "simple": 300,
+    "window": 100,
+    "extractyear": 100,
+    "extractmonth": 100,
+    "subquery": 100,
+    "nested": 100
+}

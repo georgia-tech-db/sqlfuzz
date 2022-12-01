@@ -1,0 +1,1 @@
+{"name": "tpchsmall", "tables": ["orders", "part", "partsupp", "supplier", "nation", "lineitem", "region", "customer"], "max_table": 8, "max_column": 16}

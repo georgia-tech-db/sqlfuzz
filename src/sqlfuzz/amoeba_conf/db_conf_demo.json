@@ -1,0 +1,1 @@
+{"name": "demo100", "tables": ["bonus", "emp", "dept"], "max_table": 3, "max_column": 16}
